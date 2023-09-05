@@ -9,4 +9,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=domilx&repo=ProjetBocal-Angular&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e" alt="ProjetBocal-Angular" />
 </a>
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzy208_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=drizzy208&langs count=5&theme=tokyonight)]()
