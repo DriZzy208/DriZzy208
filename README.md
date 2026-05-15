@@ -10,6 +10,7 @@
 <br/>
 
 <img src="https://img.shields.io/badge/Montreal-QC%20%F0%9F%8D%81-6EE7B7?style=flat-square" alt="location"/>
+<a href="https://drizzy208.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-drizzy208.netlify.app-3B82F6?style=flat-square&logo=netlify&logoColor=white" alt="portfolio"/></a>
 
 </div>
 
