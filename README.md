@@ -1,10 +1,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:3B82F6,100:8B5CF6&height=220&section=header&text=Noril%20%C2%B7%20DriZzy208&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20student%20%C2%B7%20Co-founder%20@%20NWMD%20Studio%20%C2%B7%20Maker%20of%20WC%20Football%20Calendar&descSize=18&descAlignY=58" alt="banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:6EE7B7,50:3B82F6,100:8B5CF6&height=220&section=header&text=Noril%20%C2%B7%20DriZzy208&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CS%20student%20%C2%B7%20Co-founder%20@%20NWMD%20Studio%20%C2%B7%20Maker%20of%20Football%202026%20App&descSize=18&descAlignY=58" alt="banner"/>
 
 <a href="https://github.com/DriZzy208">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+apps+that+bring+people+together;Shipping+WC+Football+Calendar+%E2%9A%BD;Hackathons%2C+games%2C+side+quests;Montreal+%C2%B7+QC+%F0%9F%8D%81" alt="typing"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2800&pause=900&color=3B82F6&center=true&vCenter=true&width=620&lines=Building+apps+that+bring+people+together;Shipping+Football+2026+App+%E2%9A%BD;Hackathons%2C+games%2C+side+quests;Montreal+%C2%B7+QC+%F0%9F%8D%81" alt="typing"/>
 </a>
 
 <br/>
