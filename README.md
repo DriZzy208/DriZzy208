@@ -23,7 +23,7 @@ name:        Noril
 handle:      DriZzy208
 role:        Computer Science student
 founding:    Co-founder @ NWMD Studio
-building:    WC Football Calendar  ·  Don't Miss Out (friendship app)
+building:    Fooball 2026 - Live scores  ·  Don't Miss Out (friendship app)
 also:        content automation pipelines, indie games, robotics web
 studying:    computer science · physics · math
 fuel:        coffee, curiosity, deadlines
@@ -35,7 +35,7 @@ fuel:        coffee, curiosity, deadlines
 
 | Project | What it is | Stack |
 |---|---|---|
-| ⚽ **WC Football Calendar** | World Cup match calendar app | App dev |
+| ⚽ **Football 2026 - Live scores** | World Cup match calendar app | App dev |
 | 🤝 **Don't Miss Out** | A friendship app so you actually see your people | App dev |
 | 🏢 **Nebula Work Studio** | Software agency I founded | Agency |
 | 🤖 **team3990** | FRC robotics team site, reworked in Angular | `Angular` `HTML` |
@@ -84,9 +84,8 @@ fuel:        coffee, curiosity, deadlines
 
 ## 🎯 Currently
 
-- ⚽ Shipping the **WC Football Calendar**
-- 🤝 Building **Don't Miss Out** so friendships don't fade away
-- 🎮 Sneaking game ideas into school projects
+- ⚽ Scaling the **Football 2026 app**
+- 🤝 Building **Don't Miss Out**
 - 📚 Surviving computer science, physics & math
 - 🌱 Always down to collaborate on something fun
 
