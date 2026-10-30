@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://drizzy208.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/><img width="100%" src="assets/banner.svg" alt="Noril · DriZzy208 — Software Engineering student · Montréal, QC. Portfolio: drizzy208.netlify.app"/></picture></a>
+<a href="https://drizzy208.netlify.app/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg"/><img width="100%" src="assets/banner.svg" alt="DriZzy208 — Software Engineering student · Montréal, QC. Portfolio: drizzy208.netlify.app"/></picture></a>
 
 <br/>
 
