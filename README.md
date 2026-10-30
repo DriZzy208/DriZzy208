@@ -12,7 +12,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-walls-dark.svg"/><img src="assets/p-walls.svg" width="48%" alt="The Walls: a horror raycast PICO-8 game"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-proj-dark.svg"/><img src="assets/p-proj.svg" width="48%" alt="Projectile-Planétaire: final programming project (Java)"/></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-juice-dark.svg"/><img src="assets/p-juice.svg" width="48%" alt="Juice-WRLD-modded: a Friday Night Funkin game mod (Haxe)"/></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-juice-dark.svg"/><img src="assets/p-juice.svg" width="48%" alt="Juice-WRLD-modded: a Friday Night Funkin game mod (Haxe)"/></picture> <picture><source media="(prefers-color-scheme: dark)" srcset="assets/p-techscout-dark.svg"/><img src="assets/p-techscout.svg" width="48%" alt="TechScout: a FIRST Robotics scouting app to rank alliance picks"/></picture>
 
 <br/>
 
