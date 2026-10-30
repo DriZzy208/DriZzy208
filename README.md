@@ -28,9 +28,7 @@
 
 <img src="assets/find.svg" width="100%" alt="Find me"/>
 
-<a href="https://drizzy208.netlify.app/"><img src="assets/btn-portfolio.svg" width="220" alt="Portfolio"/></a>
-<a href="https://github.com/DriZzy208"><img src="assets/btn-github.svg" width="220" alt="GitHub"/></a>
-<a href="mailto:noril.werlen@protonmail.com"><img src="assets/btn-email.svg" width="220" alt="Email"/></a>
+<a href="https://drizzy208.netlify.app/"><img src="assets/btn-portfolio.svg" width="220" alt="Portfolio"/></a> <a href="https://github.com/DriZzy208"><img src="assets/btn-github.svg" width="220" alt="GitHub"/></a> <a href="mailto:noril.werlen@protonmail.com"><img src="assets/btn-email.svg" width="220" alt="Email"/></a>
 
 <br/><br/>
 
